@@ -1,3 +1,7 @@
+https://github.com/anduinnn/HiFiNi-Auto-CheckIn
+
+https://github.com/fengwenhua/hifini_sign_in
+
 # HiFiNi-daily-sign
 
 HiFiNi-音乐磁场每日自动签到-无需服务器部署
